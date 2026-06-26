@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0001-two-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -46,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -58,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
