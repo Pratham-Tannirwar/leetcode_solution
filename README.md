@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0147-insertion-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Divide and Conquer
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
