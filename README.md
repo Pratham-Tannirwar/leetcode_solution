@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
