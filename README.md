@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3620-network-recovery-pathways) |
+## Two Pointers
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
