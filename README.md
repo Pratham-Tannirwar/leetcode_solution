@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2090-k-radius-subarray-averages](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2090-k-radius-subarray-averages](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String
