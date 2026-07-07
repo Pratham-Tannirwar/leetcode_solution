@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3620-network-recovery-pathways](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
