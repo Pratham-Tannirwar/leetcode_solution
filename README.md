@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0912-sort-an-array) |
