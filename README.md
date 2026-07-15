@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1154-day-of-the-year) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -307,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
