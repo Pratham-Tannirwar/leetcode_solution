@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 ## Stack
 |  |
