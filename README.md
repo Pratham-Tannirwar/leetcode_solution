@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0060-permutation-sequence) |
 ## Sorting
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0044-wildcard-matching) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
