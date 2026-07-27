@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
