@@ -1,29 +1,21 @@
 class Solution {
 public:
-int n;
-vector<int>a;
-int solve(vector<int>&stones,int i){
-    if(i>=n){
-        return 0;
-    }
-    if(a[i]!=-1){
-        return a[i];
-    }
-    int result=stones[i]-solve(stones,i+1);
-    if(i+1<n){
-            result=max(result,stones[i]+stones[i+1]-solve(stones,i+2));
 
-    }
-    if(i+2<n){
-       result=max(result,stones[i]+stones[i+1]+stones[i+2]-solve(stones,i+3));
-
-    }
-    return  a[i]= result;
-}
     string stoneGameIII(vector<int>& stones) {
-        n=stones.size();
-        a.resize(n+1,-1);
-        int diff=solve(stones,0);
+       int  n=stones.size();
+        vector<int>a(n+1);
+
+        for(int i=n-1;i>=0;i--){
+            a[i]=stones[i]-a[i+1];
+            if(i+2<=n){
+                a[i]=max(a[i],stones[i]+stones[i+1]-a[i+2]);
+            }
+            if(i+3<=n){
+            a[i]=max(a[i],stones[i]+stones[i+1]+stones[i+2]-a[i+3]);
+  
+            }
+        }
+        int diff=a[0];
         if(diff<0){
             return "Bob";
         }
