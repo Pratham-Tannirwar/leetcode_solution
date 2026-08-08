@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Quickselect
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3620-network-recovery-pathways) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3940-limit-occurrences-in-sorted-array) |
