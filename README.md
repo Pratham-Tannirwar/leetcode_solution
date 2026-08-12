@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3620-network-recovery-pathways) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Game Theory
 |  |
 | ------- |
