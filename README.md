@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2090-k-radius-subarray-averages) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
