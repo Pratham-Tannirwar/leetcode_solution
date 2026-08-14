@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 | [1140-stone-game-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1140-stone-game-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1140-stone-game-ii) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
