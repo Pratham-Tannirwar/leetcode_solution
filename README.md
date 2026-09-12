@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0464-can-i-win) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
