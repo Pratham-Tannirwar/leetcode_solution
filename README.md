@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
+| [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
+| [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
