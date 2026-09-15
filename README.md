@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
