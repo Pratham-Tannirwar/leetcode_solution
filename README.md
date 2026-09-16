@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2029-stone-game-ix) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
