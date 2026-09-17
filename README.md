@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
+| [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1260-shift-2d-grid) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1140-stone-game-ii) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1191-k-concatenation-maximum-sum) |
@@ -623,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2427-number-of-common-factors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
