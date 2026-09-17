@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2090-k-radius-subarray-averages](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2090-k-radius-subarray-averages) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1191-k-concatenation-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
