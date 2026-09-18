@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0397-integer-replacement) |
@@ -639,9 +642,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
