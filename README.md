@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0464-can-i-win](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
@@ -646,11 +649,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
