@@ -1,7 +1,7 @@
 class Solution {
 public:
-    
-    int solve(vector<int>& nums,int target,int i,int sum){
+     int dp[21][2001];
+     int solve(vector<int>& nums,int target,int i,int sum){
         if(i==nums.size()){
         if(sum==target){
             return 1;
@@ -10,12 +10,18 @@ public:
             return 0;
         }
         }
+         if(dp[i][sum+1000]!=-1){
+            return dp[i][sum+1000];
+        }
+
+        
         int way1=solve(nums,target,i+1,sum+nums[i]);
         int way2=solve(nums,target,i+1,sum-nums[i]);
-        return way1+way2;
+        return dp[i][sum+1000]=way1+way2;
         
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-       return solve(nums,target,0,0);
+                memset(dp,-1,sizeof(dp));
+              return solve(nums,target,0,0);
     }
 };
