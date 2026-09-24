@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int smallestIndex(vector<int>& nums) {
+        int ans=INT_MAX;
+        for(int i=0;i<nums.size();i++){
+            long long sum=0;
+            int n=nums[i];
+            while(n){
+                int d=n%10;
+                sum+=d;
+                n=n/10;
+            }
+            if(sum==i){
+                ans=min(ans,i);
+            }
+        }
+        if(ans==INT_MAX){
+            return -1;
+        }
+        return ans;
+    }
+};
