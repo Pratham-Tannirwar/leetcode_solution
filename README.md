@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2685-count-the-number-of-complete-components) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
