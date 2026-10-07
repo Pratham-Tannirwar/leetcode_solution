@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0500-keyboard-row) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0500-keyboard-row) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [1331-rank-transform-of-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0500-keyboard-row) |
 | [0940-distinct-subsequences-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1154-day-of-the-year) |
