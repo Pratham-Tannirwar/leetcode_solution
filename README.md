@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0500-keyboard-row) |
 | [0940-distinct-subsequences-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1154-day-of-the-year) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1143-longest-common-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
