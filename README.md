@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
@@ -692,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1021-remove-outermost-parentheses) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
