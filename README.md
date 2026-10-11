@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3499-maximize-active-section-with-trade-i) |
