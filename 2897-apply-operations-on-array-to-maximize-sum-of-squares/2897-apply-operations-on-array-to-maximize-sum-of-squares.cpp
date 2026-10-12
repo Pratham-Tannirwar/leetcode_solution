@@ -1,0 +1,27 @@
+class Solution {
+public:
+int Mod=1e9+7;
+    int maxSum(vector<int>& nums, int k) {
+        vector<int>cnt(32,0);
+
+        for(int &num:nums){
+            for(int b=0;b<32;b++){
+                if(num & (1<<b)){
+                    cnt[b]++;
+                }
+            }
+        }
+        long long result=0;
+        while(k--){
+            long long curr=0;
+            for(int b=0;b<32;b++){
+                if(cnt[b]>0){
+                    cnt[b]--;
+                    curr=curr|(1<<b);
+                }
+            }
+            result=(result+(curr*curr))%Mod;
+        }
+        return result;
+    }
+};
