@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0877-stone-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0912-sort-an-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0905-sort-array-by-parity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
