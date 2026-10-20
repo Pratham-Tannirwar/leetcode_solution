@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0867-transpose-matrix](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0905-sort-array-by-parity) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/1260-shift-2d-grid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pratham-Tannirwar/leetvode-c-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
